@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Muhammed RaFi khan
 #### WEB Developer 
-https://nanos.ai/wp-content/uploads/2020/10/20201006-nanos-linkedin-read-me-first-1488x744.jpg
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a Front End Web developer who is passionate about making error  free websites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the timel work with WordPress but some technologies l enjoy working with include ReactiS, Sass, JavaScript as well as Blender and Ps or Ai. 
 
