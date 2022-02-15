@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Muhammed RaFi khan
 #### WEB Developer 
-![WEB Developer ](https://scontent.fdac4-1.fna.fbcdn.net/v/t39.30808-6/274057203_1331566720649730_6608159819233506750_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHQLvasiOphzN5ad0JFUl46DykG-9zojdgPKQb73OiN2Dw29liVf1Q-YNVjpDv-HsVsWvLB41EiJ-zUW1sp7c7_&_nc_ohc=d00hRVqzoM0AX-34SPD&tn=gTWv5auo0bVqheC5&_nc_zt=23&_nc_ht=scontent.fdac4-1.fna&oh=00_AT8EscZ-_jNevUA6N-3_e1S4NVE2-a25oqU_64pUawNsRA&oe=620FADD2)
+![WEB Developer ]https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 
 I'm a Front End Web developer who is passionate about making error  free websites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the timel work with WordPress but some technologies l enjoy working with include ReactiS, Sass, JavaScript as well as Blender and Ps or Ai. 
 
