@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Muhammed RaFi khan
 #### WEB Developer 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://assets.website-files.com/5e0f1144930a8bc8aace526c/601022a355389293d8789e56_bdiqtysnnrnnl3budm9s.png)
 
 I'm a Front End Web developer who is passionate about making error  free websites with 100% client satisfaction.I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the timel work with WordPress but some technologies l enjoy working with include ReactiS, Sass, JavaScript as well as Blender and Ps or Ai. 
 
@@ -29,4 +29,5 @@ Skills:  JS / HTML / CSS / SASS / JQuery / REACT / Blender / Ai / Ps
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafialways)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rafialways)  
+
 
